@@ -2,7 +2,7 @@
 
 A mini project for Image and Video Processing (IVP) that builds a complete pipeline to enhance and segment brain MRI scans using classical image processing techniques — no deep learning, just contrast enhancement, denoising, and multiple segmentation algorithms, wrapped in an interactive Streamlit app.
 
-**Live demo:** [your-app-name.streamlit.app](https://your-app-name.streamlit.app) <!-- replace with your actual deployed link -->
+**Live demo:** https://ivp-mri-pipeline-qbwcsbmnowtewnawvjmtss.streamlit.app/
 
 > ⚠️ **This is a student academic project, not a medical device.** It cannot diagnose anything and should never be used to make real health decisions.
 
